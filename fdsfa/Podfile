@@ -1,0 +1,9 @@
+platform :ios, "9.0"
+use_frameworks!
+target 'fdsfa' do
+  pod 'JSQMessagesViewController'
+  pod 'RealmSwift', '~> 0.98.8'   
+  pod 'CryptoSwift'
+  pod 'SwiftyRSA'    
+  pod 'Heimdall'
+end

@@ -1,0 +1,30 @@
+PODS:
+  - CryptoSwift (0.4.1)
+  - Heimdall (1.0.0)
+  - JSQMessagesViewController (7.3.1):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Realm (0.98.8):
+    - Realm/Headers (= 0.98.8)
+  - Realm/Headers (0.98.8)
+  - RealmSwift (0.98.8):
+    - Realm (= 0.98.8)
+  - SwiftyRSA (0.3.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Heimdall
+  - JSQMessagesViewController
+  - RealmSwift (~> 0.98.8)
+  - SwiftyRSA
+
+SPEC CHECKSUMS:
+  CryptoSwift: 25b5aff3f260967391f8fff2e9abe4254d2c6fd5
+  Heimdall: 15b1b23a07213f02808fe0ef6007daf1c563d4e7
+  JSQMessagesViewController: 3847120a97a7ab3bdc701f166c59f3955f7801c7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Realm: 0e293bb62999730599efc3048896bbd4f2e43bcd
+  RealmSwift: 064262d38113f23ff3508fb20a0a922e696bec01
+  SwiftyRSA: 16627e161a69bfdda7d867cf9438d14a331939ca
+
+COCOAPODS: 0.39.0
